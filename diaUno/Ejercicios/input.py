@@ -1,0 +1,1 @@
+print(input("Escribre tu nombre:") + " " + input("Escribre tu apellido:"))
