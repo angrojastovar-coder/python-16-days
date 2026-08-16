@@ -1,0 +1,3 @@
+*.pdf
+!documentacion-propia/
+!documentacion-propia/*pdf
